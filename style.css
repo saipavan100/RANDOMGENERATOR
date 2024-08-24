@@ -1,0 +1,19 @@
+#myform{
+    display: grid;
+    border: 2px solid black;
+    height: 350px;
+    margin: 60px;
+    margin-left: 550px;
+    width: 450px;
+}
+#btn{
+    height: 30px;
+    width: 70px;
+}
+#ans{
+    border: 2px solid black;
+    width: auto;
+    height: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+}
